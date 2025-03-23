@@ -14,10 +14,10 @@ To predict electricity consumption at the household level in the UK using statis
 Each row of our dataset is a smart-meter reading covering half an hour of electricity consumption. Each row includes the date-time of the reading, the number of kilowatt hours consumed, and geographic/demographic information (e.g. what part of the UK the meter is in, whether the meter is for a household or not).
 
 ## Folder Structure
-- documentation/ :	Contains the project proposal, memo, and brief submitted to the professor
-- src/ :	Main codebase for data cleaning, modeling, and evaluation
-- src/data-prep/ :	Data wrangling, reshaping, and merging scripts
-- src/ models/ :	All scripts and notebooks related to modeling and evaluation
+- notes reports etc/ :	Contains the project proposal, memo, and brief submitted to the professor
+- analysis/ :	Main codebase for data cleaning, modeling, and evaluation
+- analysis/data-prep/ :	Data wrangling, reshaping, and merging scripts
+- analysis/ models/ :	All scripts and notebooks related to modeling and evaluation
 - data/ :	(Not included here) Raw or processed data files — not pushed due to size/sensitivity
 - UK_Energy_Prediction_Final.pdf	📄 Final report with methods, results, and discussion
 
