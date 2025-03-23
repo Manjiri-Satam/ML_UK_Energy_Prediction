@@ -1,0 +1,10 @@
+**.RProj
+**.Rproj
+**.Rproj.user
+**.db
+**.xlsx
+**.DS_Store
+bin/
+lib/
+**.cfg
+**.Rhistory
